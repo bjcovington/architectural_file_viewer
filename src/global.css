@@ -1,0 +1,55 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5; /* Light gray background */
+    height: 100vh; /* Full viewport height */
+    display: flex; /* Use Flexbox to center content */
+    justify-content: center;
+    align-items: center;
+  }
+  
+  input {
+    font-size: 1.2em; /* Make text larger */
+    padding: 10px; /* Add padding for larger input bars */
+    margin-bottom: 10px; /* Add space between input elements */
+    border: 1px solid #ccc; /* Light border */
+    border-radius: 5px; /* Rounded corners */
+    width: 100%; /* Full width */
+  }
+  
+  button {
+    padding: 12px 24px; /* Larger button */
+    font-size: 1.2em; /* Larger font size */
+    background-color: #3498db; /* Blue color */
+    color: white;
+    border: none;
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer;
+    width: 100%; /* Full width */
+  }
+  
+  button:hover {
+    background-color: #2980b9; /* Darker blue on hover */
+  }
+  
+  
+  
+  h2 {
+    color: #333; /* Dark gray text */
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #3498db; /* Blue background */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #2980b9; /* Darker blue on hover */
+  }
+  
